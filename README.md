@@ -7,3 +7,5 @@ Small snippets for flask
 
 ```Social Login``` - Example Login System with Facebook and Twitter application shows working of authomatic module
 
+```User Verification``` Example User Verification System application by sending email
+
