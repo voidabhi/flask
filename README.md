@@ -1,7 +1,7 @@
 Flask
 =====
 
-Small snippets for flask
+Small snippets for flask app.
 
 ```Flaskr``` - Example Getting Started Flask Application
 
