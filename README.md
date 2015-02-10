@@ -9,7 +9,7 @@ Small snippets for flask app.
 
 ```Social Login``` - Example Login System with Facebook and Twitter application shows working of authomatic module
 
-```User Verification``` Example User Verification System application by sending email
+```User Verification```  - Example User Verification System application by sending email
 
 
 License
