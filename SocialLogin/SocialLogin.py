@@ -13,6 +13,7 @@ app.config.from_pyfile('sociallogin.cfg')
 def index():
     return render_template('index.html')
 
+# main login function
 @app.route('/login/<provider_name>', methods=['GET', 'POST'])
 @app.route('/login/<provider_name>/', methods=['GET', 'POST'])
 def login(provider_name):
