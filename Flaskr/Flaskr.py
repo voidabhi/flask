@@ -16,6 +16,7 @@ app.config.update(dict(
 ))
 app.config.from_envvar('FLASKR_SETTINGS', silent=True)
 
+# basic endpoint
 @app.route('/')
 def hello_world():
     return 'Hello World!'
