@@ -4,6 +4,7 @@ from authomatic import Authomatic,exceptions
 
 from config import CONFIG
 
+# init authomatic app
 authomatic = Authomatic(CONFIG, 'your secret string', report_errors=False)
 
 app = Flask(__name__)
