@@ -11,6 +11,8 @@ Small snippets for flask app.
 
 ```User Verification```  - Example User Verification System application by sending email
 
+```SQLAlchemy-Basic```  - SqlAlchemy Example
+
 
 License
 =======
