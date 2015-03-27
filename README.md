@@ -1,7 +1,7 @@
 Flask
 =====
 
-Small snippets for ![flask](https://s3.amazonaws.com/mixture-mixed/2967/5505/assets/img/logo-white.png) app.
+Small snippets for [flask](http://thezine.biz/) app.
 
 ```Flaskr``` - Example Getting Started Flask Application
 
