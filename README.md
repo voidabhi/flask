@@ -1,7 +1,7 @@
 Flask
 =====
 
-Small snippets for [flask](http://thezine.biz/) app.
+Small snippets for [flask](http://flask.pocoo.org) app.
 
 ```Flaskr``` - Example Getting Started Flask Application
 
