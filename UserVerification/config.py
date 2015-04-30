@@ -50,7 +50,7 @@ COPY_MAIL = 'newsgags@gmail.com'
     Form Configuration
 """
 CSRF_ENABLED = True
-CSRF_SESSION_KEY = "somethingimpossibletoguess"
+CSRF_SESSION_KEY = "something-impossible-to-guess"
 
 RECAPTCHA_USE_SSL = False
 RECAPTCHA_PUBLIC_KEY = '6LeYIbsSAAAAACRPIllxA7wvXjIE411PfdB2gt2J'
