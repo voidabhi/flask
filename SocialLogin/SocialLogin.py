@@ -10,6 +10,7 @@ authomatic = Authomatic(CONFIG, 'your secret string', report_errors=False)
 app = Flask(__name__)
 app.config.from_pyfile('sociallogin.cfg')
 
+# index page
 @app.route('/')
 def index():
     return render_template('index.html')
