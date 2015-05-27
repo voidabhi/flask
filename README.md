@@ -1,7 +1,7 @@
 Flask
 =====
 
-Small reusable snippets for awesome applications built with [flask](http://flask.pocoo.org) .
+Small reusable snippets for awesome applications built with [flask](http://flask.pocoo.org)  framework.
 
 ```Flaskr``` - Example Getting Started Flask Application
 
