@@ -136,6 +136,8 @@ def login():
     flash('Logged in successfully')
     return redirect(request.args.get('next') or url_for('index'))
 
+# endpoint for password recovery
+
 @app.route('/recovery',methods=['GET','POST'])
 def recovery():
     if request.method == 'GET':
@@ -157,3 +159,4 @@ def logout():
 
 if __name__ == '__main__':
     app.run()
+username
