@@ -12,6 +12,7 @@ class User(db.Model):
     username = db.Column(db.String(80), unique=True)
     email = db.Column(db.String(120), unique=True)
 
+    # model constructor
     def __init__(self, username, email):
         self.username = username
         self.email = email
