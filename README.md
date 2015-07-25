@@ -11,7 +11,7 @@ Small reusable snippets for awesome applications built with [flask](http://flask
 
 ```User Verification```  - Example User Verification System application by sending email
 
-```SQLAlchemy-Basic```  - SQLAlchemy Example
+```SQLAlchemy-Basic```  - Example Usage of SQLAlchemy Library
 
 
 License
