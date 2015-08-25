@@ -21,6 +21,7 @@ app.config.from_envvar('FLASKR_SETTINGS', silent=True)
 def hello_world():
     return 'Hello World!'
 
+# initializing db 
 def init_db():
     with app.app_context():
         db = get_db()
