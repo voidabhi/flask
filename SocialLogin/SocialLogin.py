@@ -7,6 +7,7 @@ from config import CONFIG
 # init authomatic app
 authomatic = Authomatic(CONFIG, 'your secret string', report_errors=False)
 
+# initialize app
 app = Flask(__name__)
 app.config.from_pyfile('sociallogin.cfg')
 
