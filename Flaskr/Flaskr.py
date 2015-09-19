@@ -3,6 +3,9 @@ import os
 import sqlite3
 from flask import Flask ,request,session,g,redirect,url_for,render_template , abort,flash
 
+# constant
+SQL_FILE = 'schema.sql'
+
 # initializing app
 app = Flask(__name__)
 
@@ -25,7 +28,7 @@ def init_db():
     """Initializes DB"""
     with app.app_context():
         db = get_db()
-        with app.open_resource('schema.sql',mode='r') as f:
+        with app.open_resource(SQL_FILE,mode='r') as f:
             db.cursor().executescript(f.read())
         db.commit()
 
