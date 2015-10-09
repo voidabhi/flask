@@ -15,7 +15,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // CSS TRANSITION SUPPORT (Shoutout: http://www.modernizr.com/)
@@ -64,7 +64,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // ALERT CLASS DEFINITION
@@ -153,7 +153,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // BUTTON PUBLIC CLASS DEFINITION
@@ -261,7 +261,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // CAROUSEL CLASS DEFINITION
@@ -467,7 +467,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // COLLAPSE PUBLIC CLASS DEFINITION
@@ -638,7 +638,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
  * ======================================================================== */
 
 
-+function ($) {
+function ($) {
   'use strict';
 
   // DROPDOWN CLASS DEFINITION
