@@ -160,6 +160,7 @@ def verify_status(username):
 def verify(username, verification):
     user = User.query.filter_by(username = username).first_or_404()
 
+    # check if user is verified
     if user.is_verified:
         flash("%s's account is already validated." % user.username.capitalize(), "success")
         return redirect(url_for('index'))
