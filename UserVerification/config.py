@@ -52,6 +52,9 @@ COPY_MAIL = 'newsgags@gmail.com'
 CSRF_ENABLED = True
 CSRF_SESSION_KEY = "something-impossible-to-guess"
 
+"""
+    Recaptcha constants
+"""
 RECAPTCHA_USE_SSL = False
 RECAPTCHA_PUBLIC_KEY = '6LeYIbsSAAAAACRPIllxA7wvXjIE411PfdB2gt2J'
 RECAPTCHA_PRIVATE_KEY = '6LeYIbsSAAAAAJezaIq3Ft_hSTo0YtyeFG-JgRtu'
