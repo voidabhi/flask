@@ -4,3 +4,4 @@ venv
 .idea
 .cfg
 .DS_Store
+dump.rdb
