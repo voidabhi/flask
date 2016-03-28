@@ -1,5 +1,4 @@
-Flask
-=====
+### Flask
 
 Small reusable snippets for awesome applications built with [flask](http://flask.pocoo.org)  web framework.
 
@@ -14,8 +13,7 @@ Small reusable snippets for awesome applications built with [flask](http://flask
 ```SQLAlchemy-Basic```  - Example Usage of SQLAlchemy Library
 
 
-License
-=======
+### License
 
 ```
 Copyright 2014 Abhijeet Mohan - https://github.com/voidabhi/flask
