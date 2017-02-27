@@ -12,6 +12,14 @@ Small reusable snippets for awesome applications built with [flask](http://flask
 
 ```SQLAlchemy-Basic```  - Example Usage of SQLAlchemy Library
 
+**Decorators**
+
+```Cross Domain```
+
+```Rate Limiter```
+
+```File Cache```
+
 
 ### License
 
