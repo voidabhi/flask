@@ -20,6 +20,20 @@ Small reusable snippets for awesome applications built with [flask](http://flask
 
 ```File Cache```
 
+```Error Handler```
+
+```Content Type Validator```
+
+```Statsd```
+
+
+**Middleware**
+
+
+```Response Cache```
+
+```Request Id Middleware```
+
 
 ### License
 
