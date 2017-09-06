@@ -34,10 +34,12 @@ Small reusable snippets for awesome applications built with [flask](http://flask
 
 ```Request Id Middleware```
 
-`Rate limiter`
+```Rate limiter```
 
 
+**Utilities**
 
+```Logger```
 
 
 
